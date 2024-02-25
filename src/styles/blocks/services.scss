@@ -1,5 +1,4 @@
 .services {
-
   @include minScreen {
     padding-top: 150px;
   }
@@ -31,16 +30,16 @@
     box-shadow: 0 9px 18px rgba(37, 41, 49, 0.03);
     border-radius: 24px;
     margin-bottom: 24px;
-
-    @include onTablet {
-      margin-bottom: 30px;
-    }
+    
     @include minScreen {
       margin-bottom: 30px;
     }
 
-    &-translate {
+    @include onTablet {
+      margin-bottom: 30px;
+    }
 
+    &-translate {
       @include onTablet {
         transform: translateY(-50%);
       }

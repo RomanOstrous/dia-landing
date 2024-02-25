@@ -14,14 +14,14 @@
     line-height: 150%;
     text-align: center;
 
-    @include onTablet {
-      font-size: 24px;
-      padding: 0;
-    }
-
     @include minScreen {
       font-size: 24px;
       padding: 0 120px;
+    }
+
+    @include onTablet {
+      font-size: 24px;
+      padding: 0;
     }
   }
 }

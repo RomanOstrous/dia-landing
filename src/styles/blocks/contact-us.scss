@@ -27,6 +27,10 @@ select:-webkit-autofill:focus {
       display: flex;
       flex-direction: column;
     }
+
+    @include minScreen {
+      display: grid;
+    }
   }
 
   &__title {
