@@ -1,4 +1,4 @@
-# Miami landing page
+# Dia landing page
 
 ## General info
   ### This project was created using HTML, SCSS, JS.
@@ -15,7 +15,7 @@
   # [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
 
 ##  Link to the finished project:
-  # [DEMO LINK](https://RomanOstrous.github.io/layout_dia/)
+  # [DEMO LINK](https://romanostrous.github.io/dia-landing/)
 
 ## Technologies
   The following technologies were used to build this project:
@@ -44,7 +44,7 @@ npm install
 ```sql
 npm start
 ```
-4. Open the app in your web browser by navigating to http://localhost:3000.
+4. Open the app in your web browser by navigating to http://localhost:8080.
 
 ## Project Structure
 
