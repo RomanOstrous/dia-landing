@@ -1,4 +1,4 @@
-# Dia landing page
+# Air landing page
 
 ## General info
   ### This project was created using HTML, SCSS, JS.
